@@ -1,0 +1,8 @@
+C:\Users\Matheus\Documents\SharpDevelop Projects\Atividade 01\Atividade 01\bin\Debug\Atividade 01.exe.config
+C:\Users\Matheus\Documents\SharpDevelop Projects\Atividade 01\Atividade 01\bin\Debug\Atividade 01.exe
+C:\Users\Matheus\Documents\SharpDevelop Projects\Atividade 01\Atividade 01\bin\Debug\Atividade 01.pdb
+C:\Users\Matheus\Documents\SharpDevelop Projects\Atividade 01\Atividade 01\obj\Debug\Atividade 01.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\SharpDevelop Projects\Atividade 01\Atividade 01\obj\Debug\Atividade_01.MainForm.resources
+C:\Users\Matheus\Documents\SharpDevelop Projects\Atividade 01\Atividade 01\obj\Debug\Atividade 01.csproj.GenerateResource.Cache
+C:\Users\Matheus\Documents\SharpDevelop Projects\Atividade 01\Atividade 01\obj\Debug\Atividade 01.exe
+C:\Users\Matheus\Documents\SharpDevelop Projects\Atividade 01\Atividade 01\obj\Debug\Atividade 01.pdb
